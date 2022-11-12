@@ -1,0 +1,180 @@
+.gradient{
+    width: 1400px;
+    height: 50px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(
+        60deg,
+red,
+green 30%,
+yellow
+
+    );
+}
+.box{
+    border-radius: 15px;
+    margin-top: 25px;
+    
+    height: 65px;
+    width: 650px;
+    background-color: silver;
+    text-align: center;
+    margin-left: 350px;
+border: 1px solid red;
+}
+.box1{
+    height: 50px;
+    width: 1370px;
+    border-radius: 15px;
+    background-color: aqua;
+    margin-top: 20px;
+    border-color: gray;
+}
+.flex-container {
+    padding: 5px;
+    background-color: lightseagreen;
+    color: black;
+    display: flex;
+   height: 150px;
+ 
+   border-radius: 15px;
+   flex-wrap: wrap;
+   justify-content: wrap;
+justify-content:space-around;
+                            
+}
+
+.flex-items {
+    height: 50px;
+    width: 350px;
+   
+    background-color: aqua;
+padding: 10px;
+margin: 10px;
+margin-top: -5px;
+border-radius: 15px;
+border: 2px solid gray;
+
+}
+.gradient2{
+
+text-align: center;
+margin-top: 120px;
+height: 40px;
+width: 1350px;
+background-image: linear-gradient(
+60deg,
+red,
+    yellow 30%,
+    red
+);
+}
+
+.flex-item2 {
+    height: 100px;
+    width: 180px;
+  color: red;
+    background-color: yellow;
+padding: 10px;
+
+margin-top: 10px;
+border-radius: 15px;
+border: 2px solid gray;
+flex-wrap: wrap;
+justify-content: wrap;
+justify-content:space-around;
+
+}
+.gradient3{
+
+    text-align: center;
+    margin-top: 20px;
+    height: 250px;
+    width: 1350px;
+    background-image: radial-gradient(
+    600deg,
+    
+    rgb(9, 9, 219),
+
+        rgb(45, 172, 222)
+       
+
+    );
+    }
+    .gradient4{
+        width: 1400px;
+        margin-top: -80px;
+        height: 50px;
+        color: white;
+        text-align: center;
+        background-image: linear-gradient(
+            60deg,
+    red,
+    red
+    
+        );
+    }
+    .flex-container1 {
+        padding: 5px;
+        background-color: lightseagreen;
+        color: black;
+        display: flex;
+       height: 170px;
+       border-radius: 15px;
+       flex-wrap: wrap;
+       justify-content: wrap;
+    justify-content:space-around;
+                                
+    }
+    .box2{
+        height 30px;
+    width:300px;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+    }
+    .box3{
+        height 30px;
+        width: 400px;
+        margin-left: 350px;
+        margin-top: -73px;
+   
+   background-color: rgb(24, 169, 218);
+   color: white;
+    text-align: center;
+    }
+    .box4{
+        height 30px;
+        width: 400px;
+        margin-left: 820px;
+        margin-top: -73px;
+   background-color: blue;
+   color: white;
+    text-align: center;
+    }
+    .box5{
+
+       
+        height 200px;
+        width: 1220px;
+        margin-top: 0px;
+   background-color: rgb(236, 157, 9);
+   color: white;
+    text-align: center;
+    }
+    .box6{
+        margin-left: 1250px;
+        height 90px;
+        width: 70px;
+        margin-top: -180px;
+        color: white;
+        background-color: black;
+    }
+    .box7{
+        height 45px;
+        width: 1300px;
+        text-align: center;
+        background-color: aqua;
+        color: black;
+    }
+  
